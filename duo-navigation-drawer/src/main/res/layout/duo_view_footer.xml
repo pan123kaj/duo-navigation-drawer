@@ -15,7 +15,7 @@
         android:gravity="center"
         android:minWidth="@android:dimen/thumbnail_width"
         android:padding="8dp"
-        android:text="Log Off"
+        android:text="Log Out"
         android:textAllCaps="true"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textColor="@android:color/white"
